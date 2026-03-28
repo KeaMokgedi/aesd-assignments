@@ -1,0 +1,1 @@
+./writer "$writedir/$file" "$writestr"
